@@ -1,5 +1,5 @@
-array = [carrots, cookies, milk, chips]
+array = [carrots, orange, apple]
 
 def oxford_comma(array)
-   array.join(",")
+   [carrots, orange, apple]
 end
